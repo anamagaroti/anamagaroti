@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-<p> Meu nome é Ana Júlia Magaroti, tenho 17 anos e sou formada em Técnico de Desenvolvimento de sistemas. Atualmente estou cunsando Sistemas para internet na instituição da Fatec de Jales.      
+<p> Meu nome é Ana Júlia Magaroti, tenho 17 anos e sou formada em Técnico de Desenvolvimento de sistemas. Atualmente estou cursando Sistemas para internet na instituição da Fatec de Jales.      
 </p>
 <div style="display: inline_block">
 
@@ -8,7 +8,6 @@
 
 ##
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
