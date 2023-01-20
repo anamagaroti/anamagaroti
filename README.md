@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-<p> Meu nome é Ana Júlia Magaroti, tenho 17 anos e estudo na Instituição Etec Dr.José Luiz Viana Coutinho de Jales - SP. Atualmente estou cursando o 3°ano de Desenvolvimento de sistemas.     
+<p> Meu nome é Ana Júlia Magaroti, tenho 17 anos e sou formada em Técnico de Desenvolvimento de sistemas. Atualmente estou cunsando Sistemas para internet na instituição da Fatec de Jales.      
 </p>
 <div style="display: inline_block">
 
@@ -13,9 +13,7 @@
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img align="center" alt="Ana-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Ana-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="Ana-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 <h3>Redes sociais:</h3>
