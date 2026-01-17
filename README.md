@@ -4,14 +4,21 @@
 </p>
 <div style="display: inline_block">
 
-<h3>Linguagens e tecnologias:</h3>
+<h3>Linguagens e tecnologias que tenho familiaridade:</h3>
 
 ##
-  <img align="center" alt="Ana-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
+  <img align="center" alt="Ana-Dart" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Ana-Postgresql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Ana-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Ana-go" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Ana-react" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-react-icon-svg-download-png-1175109.png?f=webp&w=512" />
+
+  <img align="center" alt="Ana-docker" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-docker-icon-svg-download-png-226091.png?f=webp&w=512" />
+  <img align="center" alt="Ana-mongodb" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-icon-svg-download-png-226029.png?f=webp&w=512" />
+  <img align="center" alt="Ana-java" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-java-icon-svg-download-png-1174953.png?f=webp&w=512" />
+  <img align="center" alt="Ana-springboot" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-spring-boot-icon-svg-download-png-4406740.png?f=webp&w=512" />
+  <img align="center" alt="Ana-csharp" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-icon-svg-download-png-1175241.png?f=webp&w=512" />
 </div>
 
 <h3>Redes sociais:</h3>
@@ -22,13 +29,3 @@
   <a href = "mailto:anamagaroti.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-julia-magaroti-5257791b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<h3>Minhas estatísticas</h3>
-
-  ##
- <div>
-  <a href="https://github.com/anamagaroti">  
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamagaroti&layout=compact&langs_count=7&theme=dracula"/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=anamagaroti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
