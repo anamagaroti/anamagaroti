@@ -13,12 +13,11 @@
   <img align="center" alt="Ana-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Ana-go" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Ana-react" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-react-icon-svg-download-png-1175109.png?f=webp&w=512" />
-
-  <img align="center" alt="Ana-docker" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-docker-icon-svg-download-png-226091.png?f=webp&w=512" />
-  <img align="center" alt="Ana-mongodb" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-icon-svg-download-png-226029.png?f=webp&w=512" />
-  <img align="center" alt="Ana-java" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-java-icon-svg-download-png-1174953.png?f=webp&w=512" />
-  <img align="center" alt="Ana-springboot" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-spring-boot-icon-svg-download-png-4406740.png?f=webp&w=512" />
-  <img align="center" alt="Ana-csharp" height="60" width="70" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-icon-svg-download-png-1175241.png?f=webp&w=512" />
+  <img align="center" alt="Ana-docker" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-512/free-docker-icon-svg-download-png-226091.png?f=webp&w=512" />
+  <img align="center" alt="Ana-mongodb" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-icon-svg-download-png-226029.png?f=webp&w=512" />
+  <img align="center" alt="Ana-java" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-512/free-java-icon-svg-download-png-1174953.png?f=webp&w=512" />
+  <img align="center" alt="Ana-springboot" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-512/free-spring-boot-icon-svg-download-png-4406740.png?f=webp&w=512" />
+  <img align="center" alt="Ana-csharp" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-512/free-csharp-icon-svg-download-png-1175241.png?f=webp&w=512" />
 </div>
 
 <h3>Redes sociais:</h3>
